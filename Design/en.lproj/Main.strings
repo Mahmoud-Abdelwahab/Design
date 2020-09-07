@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Language check"; ObjectID = "2u4-tP-HFB"; */
+"2u4-tP-HFB.text" = "Language check";
+
+/* Class = "UIButton"; normalTitle = "Change language "; ObjectID = "8OY-dN-pGS"; */
+"8OY-dN-pGS.normalTitle" = "Change language ";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "BC5-gV-1UX"; */
+"BC5-gV-1UX.title" = "Item";
+
+/* Class = "UIViewController"; title = "Home"; ObjectID = "BYZ-38-t0r"; */
+"BYZ-38-t0r.title" = "Home";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Etb-7q-1dG"; */
+"Etb-7q-1dG.text" = "Label";
+
+/* Class = "UILabel"; text = "Login"; ObjectID = "FKK-zJ-Bqn"; */
+"FKK-zJ-Bqn.text" = "Login";
+
+/* Class = "UILabel"; text = "asdaadadasdasdadadaddqwfqfqfqfqqfqfqfqfqfqfqfqfqfqfqfqfqfq"; ObjectID = "HLn-7b-0qD"; */
+"HLn-7b-0qD.text" = "asdaadadasdasdadadaddqwfqfqfqfqqfqfqfqfqfqfqfqfqfqfqfqfqfq";
+
+/* Class = "UINavigationItem"; title = "Resturants"; ObjectID = "Iu1-ap-kzU"; */
+"Iu1-ap-kzU.title" = "Resturants";
+
+/* Class = "UITextField"; placeholder = "email"; ObjectID = "KZR-Cf-neE"; */
+"KZR-Cf-neE.placeholder" = "email";
+
+/* Class = "UITextField"; placeholder = "password"; ObjectID = "M7z-N3-8Dn"; */
+"M7z-N3-8Dn.placeholder" = "password";
+
+/* Class = "UILabel"; text = "CHECKOUT"; ObjectID = "OJg-Re-qqc"; */
+"OJg-Re-qqc.text" = "CHECKOUT";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "OLp-b3-qw6"; */
+"OLp-b3-qw6.title" = "Item";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "Q3c-VU-Rtq"; */
+"Q3c-VU-Rtq.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "PRICE HERE ...?$"; ObjectID = "TYe-Xz-Qs3"; */
+"TYe-Xz-Qs3.text" = "PRICE HERE ...?$";
+
+/* Class = "UISegmentedControl"; Tns-AU-MPG.segmentTitles[0] = "Most ordeed"; ObjectID = "Tns-AU-MPG"; */
+"Tns-AU-MPG.segmentTitles[0]" = "Most ordeed";
+
+/* Class = "UISegmentedControl"; Tns-AU-MPG.segmentTitles[1] = "Review"; ObjectID = "Tns-AU-MPG"; */
+"Tns-AU-MPG.segmentTitles[1]" = "Review";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dKl-O6-fY9"; */
+"dKl-O6-fY9.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Login"; ObjectID = "g08-2J-qeJ"; */
+"g08-2J-qeJ.normalTitle" = "Login";
+
+/* Class = "UITextView"; text = "this demo show how  to set the  app language  to be like the default  ios system alnguage and  you can change the language from the app itself without restarting the app again "; ObjectID = "xmo-0V-StK"; */
+"xmo-0V-StK.text" = "this demo show how  to set the  app language  to be like the default  ios system alnguage and  you can change the language from the app itself without restarting the app again ";
